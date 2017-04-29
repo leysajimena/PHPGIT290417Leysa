@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: PHPGIT290417Leysa
+  host: PHPGIT290417Leysa
+  disk_quota: 1024M
